@@ -2,7 +2,7 @@
 <html>
   <head>
     <body style="background-color:powderblue;">
-     <title>My Personal Introduction</title>
+     <title> My Personal Introduction </title>
   </head>
     <body style="color:red;">
       <h1 style="color:blue;">My name is Khadija Abali</h1>
